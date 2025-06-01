@@ -12,7 +12,7 @@ This project is a simple graphical calculator built using Java Swing, designed t
   - Handles basic error scenarios like division by zero.
 - **Technologies:** Java programming language and Swing GUI toolkit.
 - **Learning Outcome:** Understand GUI design principles in Java and event-driven programming.
-![Calculator Screenshot](images/calculator.png)
+![Calculator Screenshot](Images/calculator.png)
 ---
 
 ### 🔐 Password Generator (Python Tkinter)
@@ -27,4 +27,4 @@ This project is a GUI-based password generator developed using Python’s Tkinte
   - Displays the generated password instantly.
 - **Technologies:** Python programming language and Tkinter GUI library.
 - **Learning Outcome:** Practice GUI creation in Python and handling user input with validation.
-- ![Password Generator Screenshot](images/password-generator.png)
+- ![Password Generator Screenshot](Images/password-generator.png)
