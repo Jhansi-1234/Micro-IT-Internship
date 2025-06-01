@@ -1,21 +1,30 @@
 # Micro-IT-Internship
-# Java Mini Projects
+## About the Projects
 
-This repository contains two beginner-friendly Java projects created using Swing for GUI:
+### 🧮 Calculator (Java Swing)
 
-1. 🧮 **Calculator** – A simple GUI-based calculator for basic arithmetic operations.
-2. 🔐 **Password Generator** – A tool that generates strong, random passwords based on user preferences.
+This project is a simple graphical calculator built using Java Swing, designed to perform basic arithmetic operations:
 
+- **Purpose:** To provide a user-friendly interface for performing addition, subtraction, multiplication, and division.
+- **Features:**
+  - Clickable buttons for digits and operations.
+  - Real-time display of input and results.
+  - Handles basic error scenarios like division by zero.
+- **Technologies:** Java programming language and Swing GUI toolkit.
+- **Learning Outcome:** Understand GUI design principles in Java and event-driven programming.
+![Calculator Screenshot](images/calculator.png)
 ---
 
-## 🧮 Calculator
+### 🔐 Password Generator (Python Tkinter)
 
-### ✅ Features
-- Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division
-- Easy-to-use GUI with button interface
-- Error handling (e.g., divide-by-zero)
+This project is a GUI-based password generator developed using Python’s Tkinter library. It allows users to create strong, random passwords based on their preferences:
 
-### 🚀 How to Run
-1. Compile the Java file:
-   ```bash
-   javac Calculator.java
+- **Purpose:** To generate secure passwords that include a mix of character types based on user selection.
+- **Features:**
+  - Input field for custom password length.
+  - Options to include lowercase letters, uppercase letters, digits, and special characters.
+  - Input validation and error messages for invalid inputs.
+  - Displays the generated password instantly.
+- **Technologies:** Python programming language and Tkinter GUI library.
+- **Learning Outcome:** Practice GUI creation in Python and handling user input with validation.
+- ![Password Generator Screenshot](images/password-generator.png)
