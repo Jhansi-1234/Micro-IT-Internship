@@ -12,7 +12,9 @@ This project is a simple graphical calculator built using Java Swing, designed t
   - Handles basic error scenarios like division by zero.
 - **Technologies:** Java programming language and Swing GUI toolkit.
 - **Learning Outcome:** Understand GUI design principles in Java and event-driven programming.
+![Image](https://github.com/user-attachments/assets/9eb51fba-93f2-454a-bc32-b47ef0593704)
 
+![Image](https://github.com/user-attachments/assets/8c5e1358-5c30-425a-8383-dc14ac340240)
 
 ### 🔐 Password Generator (Python Tkinter)
 
