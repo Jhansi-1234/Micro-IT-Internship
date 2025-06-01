@@ -14,6 +14,8 @@ This project is a simple graphical calculator built using Java Swing, designed t
 - **Learning Outcome:** Understand GUI design principles in Java and event-driven programming.
 ![Calculator Screenshot](Images/calculator.png)
 ---
+![Calculator Screenshot](images/calculator.png)
+![Password Generator Screenshot](images/password-generator.png)
 
 ### 🔐 Password Generator (Python Tkinter)
 
